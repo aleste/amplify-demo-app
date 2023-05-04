@@ -13,7 +13,7 @@
 
         <q-toolbar-title> Quasar Demo App on AWS Amplify </q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
+        <div>Demo versión{{ $q.version }}</div>
       </q-toolbar>
     </q-header>
 
